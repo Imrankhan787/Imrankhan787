@@ -4,8 +4,7 @@
 
 ---
 
-🔬  I am a computational social scientist with over 15 years of experience specializing in statistical modeling, machine learning, 
-deep learning, and natural language processing. 
+🔬  I am a computational social scientist with over 15 years of experience specializing in quantitative research, statistical analysis, and Machine Learning. 
 ---
 
 ### 👨‍💻 About Me
@@ -14,7 +13,7 @@ deep learning, and natural language processing.
 - 🌱 Learning: **Reinforcement Learning**
 - 👯 Open to collaborate on: **AI for social good, research-based ML/NLP projects**
 - 💬 Ask me about: `Machine Learning`, `NLP`, `Generative AI`, `Python`, `Scikit-learn`, `PyTorch`, `HuggingFace`
-- 📫 How to reach me: [Email](mailto:ikhan004@odu.edu) | [LinkedIn](https://www.linkedin.com/in/imran-khan-87bb74321/)
+- 📫 How to reach me: [Email](mailto:i1khan@odu.edu) | [LinkedIn](https://www.linkedin.com/in/imran-khan-87bb74321/)
 - ⚡ Fun fact: I once trained a model to detect flood help requests from live tweets during a disaster!
 
 ---
